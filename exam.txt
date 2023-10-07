@@ -1,0 +1,20 @@
+1-Conditional Statements:
+Question: write a Python program to check if each person is eligible to vote. Print the names of eligible voters.
+
+2-Recursion:
+Question: Write a Python function factorial(n) to calculate the factorial of a given number 'n' using recursion. 
+
+3-Prime Number:
+Question: Write a Python function is_prime(n) to check if a given number 'n' is prime or not. 
+
+4-Palindrome Number:
+Question: Write a Python function is_palindrome(n) to check if a given number 'n' is a palindrome or not. 
+
+5-Armstrong Number:
+Question: Write a Python function is_armstrong(n) to check if a given number 'n' is an Armstrong number or not. 
+
+6-Exception Handling (try-except):
+Question: Provide an example of Python code where you use a try-except block to handle a specific exception.
+
+7-Polymorphism:
+Write a Python program that includes two classes, 'Human' and 'Animal,' each with a 'speak()' method. Showcase polymorphism by instantiating objects of both subclasses and invoking the 'speak()' method on each of them.
